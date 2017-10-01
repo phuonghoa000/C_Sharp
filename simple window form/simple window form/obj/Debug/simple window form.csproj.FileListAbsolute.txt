@@ -1,0 +1,17 @@
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\bin\Debug\simple window form.exe.config
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\bin\Debug\simple window form.exe
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\bin\Debug\simple window form.pdb
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple window form.csprojResolveAssemblyReference.cache
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Properties.Resources.resources
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple window form.csproj.GenerateResource.Cache
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple window form.exe
+c:\users\phuong hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple window form.pdb
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_compute.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_PrintArray.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_SortArray.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_2DimArray.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_learn_string_1.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_learn_string_2.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_exception.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_string_exercise.resources
+C:\Users\Phuong Hoa\documents\visual studio 2013\Projects\simple window form\simple window form\obj\Debug\simple_window_form.Form_First_Degree_Equation.resources

@@ -1,0 +1,3 @@
+C:\Users\Phuong Hoa\Documents\Visual Studio 2013\Projects\learn_c_sharp\learn_c_sharp\bin\Debug\learn_c_sharp.exe.config
+C:\Users\Phuong Hoa\Documents\Visual Studio 2013\Projects\learn_c_sharp\learn_c_sharp\obj\Debug\learn_c_sharp.exe
+C:\Users\Phuong Hoa\Documents\Visual Studio 2013\Projects\learn_c_sharp\learn_c_sharp\obj\Debug\learn_c_sharp.pdb
